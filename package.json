@@ -1,0 +1,12 @@
+{
+  "name": "redirect-resolver",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "author": "Edgar Montiel Cruz",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
